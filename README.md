@@ -1,7 +1,7 @@
 # Descriptive-Statistics 
 In the practice, we will filter out bad data, fill in missing values, trasform data into a suitable format, and draw appropriate chart.
 
-## Analysis in San Francisco
+## Analysis in San Francisco Salary dataset
 ### Synopsis
 Our goal in this analysis is to explore the salaries in San Francisco overtime. What we expected to discover are:
 1.	The salary will raise as time goes by. 
