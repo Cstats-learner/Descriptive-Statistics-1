@@ -35,6 +35,11 @@ Histogram, box plot, and line chart will be used to build the salary scheme.
 1.	Apply sorted method to compute minimum and maximum and range from minimum and maximum
 2.	Import statistics library and apply mean, median and mode methods
 3.	import numpy library and apply quantile method
+-----------------------------------------------------
+mean: the average value
+median: the middle value after they’ve been sorted
+mode: the most frequently occurring value
+-----------------------------------------------------
 
 #### Task 3: Measure variability 
 •	Compute the variance and standard deviation of salary
