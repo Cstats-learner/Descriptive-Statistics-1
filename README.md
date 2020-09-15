@@ -37,9 +37,7 @@ Histogram, box plot, and line chart will be used to build the salary scheme.
 3.	import numpy library and apply quantile method
 
 *mean: the average value
-
-*median: the middle value after they’ve been sorted
-
+*median: the middle value after sorted
 *mode: the most frequently occurring value
 
 
