@@ -12,7 +12,7 @@ Our goal in this analysis is to explore the salaries in San Francisco overtime. 
 The data we have chosen to use is titled “SF Salaries” and was found on kaggle.com. There are over 150,000 dataset containing the employee name, job title, and the compensation for employees in San Francisco city from 2012 to 2017.
 
 ### Goal
-We want to know tendency of salary in San Francisco during this period. Is there any increase of central tendency or how is the range of maximum and minim salary.
+We want to know tendency of salary in San Francisco during this period. Is there any increase of central tendency or how is the range of maximum and minimum salary.
 
 ### Analysis
 The library we currently envision using are pandas, numpy, statistics, matplotlib and seaborn.
