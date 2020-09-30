@@ -52,6 +52,6 @@ Attach the picture, and why we want to use it
 •	Boxplot of salaries in annual basis: take the totalPayBenefits as a salary
 
 ### Results and Findings 
-From this analytics, we can find that the salary in San Francisco is increasing slowly from 2012~2017. By observing mean, median value of each year, the numbers are similar in 2012, 2013, 2016. On the other hand, the value in 2014, 2015, and 2017 are higher. The value of standard deviation can also group into two. It showed that 2014, 2015 have different values lower than others. In the contrast, the range of salary went to a different side to standard deviation and variable. In conclusion, we find the difference of salary from year to year is slight. As this result, we can suggest the government increase the minimum wage of salary in order to improve welfare of the whole society.   
+From this analytics, we can find that the salary in San Francisco is increasing slowly from 2012~2017. By observing mean, median value of each year, the numbers are similar in 2012, 2013, 2016. On the other hand, the value in 2014, 2015, and 2017 are higher. The value of standard deviation can also group into two. It showed that 2014, 2015 have different values lower than others. In the contrast, the range of salary went to a different side to standard deviation and variable. In conclusion, we find the difference of salary from year to year is slight. As this result, we can suggest the government to increase the minimum wage of salary in order to improve welfare of the whole society.   
 
 
